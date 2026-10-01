@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Gabriella Brito Soares! 👋
 
-<!--
-**gabriellabsoares04/gabriellabsoares04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Universidade Positivo, Brazil.
 
-Here are some ideas to get you started:
+💻 Interested in Data Analytics, Programming, and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Academic research experience and participation in collaborative projects.
+
+🌱 Currently learning Python, SQL, Database Modeling, and Data Visualization.
+
+🎯 My goal is to develop practical projects, expand my technical skills, and contribute to solutions that make a difference.
+
+## 🛠️ Skills & Interests
+
+* Python — learning and practicing
+* Database Modeling
+* SQL — learning
+* Data Analytics & Power BI — learning
+* Problem Solving
+* Teamwork and Project Organization
+
+## 📚 Academic Projects
+
+* Urban Parking Support System — academic systems prototyping project.
+* Python Exercises — introductory programming and logic exercises.
+* Scientific Research — research on the Scientific Revolution and its impacts on Physics education.
+
+## 📫 Contact
+
+* GitHub: [@gabriellabsoares04](https://github.com/gabriellabsoares04)
+* LinkedIn: Add your profile link here.
